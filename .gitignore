@@ -1,0 +1,6 @@
+*.last-run
+Package\ Control.cache
+.DS_Store
+*~
+Package Control.merged-ca-bundle
+*.crt
